@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "FileSystem";
+}
+
+<div class="text-center">
+    <h1 class="display-4">FSL FileSystem - jQuery version</h1>
+    <p>Learn more about on <a href="https://www.fabiosilvalima.net" target="_blank"> fabiosilvalima.net</a>.</p>
+</div>
+
+<div class="text-center mb-5">
+    @Html.ActionLink("Vue Version", "Vue", "Home", null, new { @class = "btn btn-primary" })
+</div>
+
+<div class="row">
+    <div class="col-md-6"
+        fsl-filesystem="dir1"
+        fsl-filesystem-full-name="c:\dev"></div>
+
+    <div class="col-md-6"
+        fsl-filesystem="dir2"
+        fsl-filesystem-full-name="c:\dev"></div>
+</div>
