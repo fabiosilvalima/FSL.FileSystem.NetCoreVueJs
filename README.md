@@ -3,6 +3,12 @@
 
 ![enter image description here](https://www.fabiosilvalima.net/wp-content/uploads/2019/04/fabio-silva-lima-gerenciador-arquivos-cshap-net-core-vue-2.png)
 
+> **FULL ARTICLE:**
+>
+> English: https://www.fabiosilvalima.com/file-system-manager-scratch-netcore-vuejs/
+>
+> PortuguÃªs: https://www.fabiosilvalima.net/gerenciador-de-arquivos-net-core-vuejs/
+
 
 References:
 ---
@@ -17,7 +23,7 @@ Licence:
 
 ---
 
-![Programação no Mundo Real Design Patterns Vol. 1](https://www.fabiosilvalima.net/wp-content/uploads/2017/02/fabiosilvalima-ebook-design-patterns-INSTAGRAM-2.png)
+![ProgramaÃ§Ã£o no Mundo Real Design Patterns Vol. 1](https://www.fabiosilvalima.net/wp-content/uploads/2017/02/fabiosilvalima-ebook-design-patterns-INSTAGRAM-2.png)
 
   [1]: http://fabiosilvalima.net
   [2]: http://fabiosilvalima.com
